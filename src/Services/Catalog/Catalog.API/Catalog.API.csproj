@@ -7,4 +7,7 @@
   <ItemGroup>
     <Compile Include="Dockerfile.fs" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
 </Project>
